@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/Background-color_34532.png</file>
+        <file>res/close.png</file>
+        <file>res/copy.png</file>
+        <file>res/forward.png</file>
+        <file>res/paste.png</file>
+        <file>res/plus.png</file>
+        <file>res/save-instagram.png</file>
+        <file>res/scissors.png</file>
+        <file>res/share.png</file>
+        <file>res/tag.png</file>
+        <file>res/undo-circular-arrow.png</file>
+        <file>res/res.qrc</file>
+        <file>res/print-printer-tool-with-printed-paper-outlined-symbol_icon-icons.com_57772.png</file>
+    </qresource>
+</RCC>
